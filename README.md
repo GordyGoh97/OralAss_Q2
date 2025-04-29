@@ -7,3 +7,5 @@ burger king is better than mcdonalds
 i love my girlfriend
 
 gordon loves his mother
+
+dogs are better than cats
